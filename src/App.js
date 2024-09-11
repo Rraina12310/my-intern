@@ -71,7 +71,7 @@ function App() {
         <ul className="mt-4">
           <li className="mb-4 p-4 bg-white shadow rounded-lg">
             <p className="font-semibold">Project Consultation</p>
-            <p>Amount Due: $12,075.00</p>
+            <p>Amount Due: $20,000.00</p>
             <p>Due Date: September 25, 2024</p>
           </li>
           <li className="mb-4 p-4 bg-white shadow rounded-lg">
@@ -128,7 +128,7 @@ function App() {
   {/* Sidebar */}
   <div className="w-64 bg-gray-800 text-white flex flex-col min-h-screen">
     <div className="px-4 py-6">
-      <h1 className="text-3xl font-bold">My App</h1>
+      <h1 className="text-3xl font-bold">Raina's App</h1>
     </div>
     <nav className="mt-6">
       <ul>
